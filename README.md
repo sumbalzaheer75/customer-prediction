@@ -232,11 +232,11 @@ customer-churn-prediction/
 
 The deployed Streamlit Community Cloud application will be available here:
 
-**Live App:** Add Streamlit application link after deployment.
+**Live App:** https://sumbalzaheer75-customer-prediction-app-c1joqv.streamlit.app/
 
 ## 📂 GitHub Repository
 
-**GitHub:** https://sumbalzaheer75-customer-prediction-app-c1joqv.streamlit.app/
+**GitHub:** 
 
 ## 📝 Author
 
