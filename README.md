@@ -236,7 +236,7 @@ The deployed Streamlit Community Cloud application will be available here:
 
 ## 📂 GitHub Repository
 
-**GitHub:** Add GitHub repository link here.
+**GitHub:** https://sumbalzaheer75-customer-prediction-app-c1joqv.streamlit.app/
 
 ## 📝 Author
 
