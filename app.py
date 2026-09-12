@@ -10,9 +10,8 @@ st.set_page_config(page_title="Customer Churn Prediction", page_icon="📊")
 
 st.title("📊 Customer Churn Prediction App")
 st.write("""
-Yeh app predict karta hai ke koi customer company chorega (churn) ya nahi, 
-uske profile aur usage details ke basis par. Neeche form fill karein aur 
-**Predict Churn** button dabayein.
+This app predicts whether a customer is likely to leave the company (churn) based on their profile and usage details. Fill in the form below and click the **Predict Churn** button to get the prediction.
+
 """)
 
 st.header("Customer Details")
